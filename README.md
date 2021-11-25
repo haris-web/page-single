@@ -1,0 +1,2 @@
+# page-single
+html page
